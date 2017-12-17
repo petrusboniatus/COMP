@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/practica03.dir/HashMap.c.o CMakeFiles/practica03.dir/SymbolTable.c.o CMakeFiles/practica03.dir/lex.yy.c.o CMakeFiles/practica03.dir/syntax.tab.c.o CMakeFiles/practica03.dir/Logger.c.o  -o practica03 -lm 

@@ -1,0 +1,5 @@
+# Como ejecutar:
+
+```
+./buildAndRun.sh
+```

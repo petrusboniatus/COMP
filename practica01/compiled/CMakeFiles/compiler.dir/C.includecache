@@ -1,0 +1,88 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/ErrorLog.c
+ErrorLog.h
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/ErrorLog.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/ErrorLog.h
+
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/HashMap.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+HashMap.h
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/HashMap.h
+
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/HashMap.h
+
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/InputSystem.c
+stdio.h
+-
+stdlib.h
+-
+InputSystem.h
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/InputSystem.h
+ErrorLog.h
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/ErrorLog.h
+
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/InputSystem.h
+
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/LexicalAnalyzer.c
+stdio.h
+-
+stdlib.h
+-
+LexicalAnalyzer.h
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/LexicalAnalyzer.h
+ErrorLog.h
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/ErrorLog.h
+
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/LexicalAnalyzer.h
+InputSystem.h
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/InputSystem.h
+goDefinitions.h
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/goDefinitions.h
+HashMap.h
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/HashMap.h
+
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/goDefinitions.c
+stdlib.h
+-
+string.h
+-
+goDefinitions.h
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/goDefinitions.h
+
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/goDefinitions.h
+
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/main.c
+stdio.h
+-
+test/IntegrationTest.h
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/test/IntegrationTest.h
+
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/resources/PerfectHash.c
+PerfectHash.h
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/resources/PerfectHash.h
+
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/resources/PerfectHash.h
+
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/test/IntegrationTest.h
+stdio.h
+-
+../LexicalAnalyzer.h
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/LexicalAnalyzer.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/compiler.dir/HashMap.c.o CMakeFiles/compiler.dir/main.c.o CMakeFiles/compiler.dir/InputSystem.c.o CMakeFiles/compiler.dir/ErrorLog.c.o CMakeFiles/compiler.dir/goDefinitions.c.o CMakeFiles/compiler.dir/resources/PerfectHash.c.o CMakeFiles/compiler.dir/LexicalAnalyzer.c.o  -o compiler -rdynamic 

@@ -1,0 +1,3 @@
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/compiled/CMakeFiles/rebuild_cache.dir
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/compiled/CMakeFiles/edit_cache.dir
+/home/pedro/semestre1_2017/compiladores/practicas/practica01 (1)/compiled/CMakeFiles/compiler.dir
